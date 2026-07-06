@@ -3,42 +3,46 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
 body {
-    background-color: rgb(68 172 56 / 80%);
+    background-color: rgb(85 197 73 / 63%);
 }
 .next-but{
     text-align: center;
 }
-.main-page form{
-    width: 30%;
+.main-page form {
+    width: 40%;
     margin: auto;
     text-align: center;
     margin-top: 150px;
-    background-color: rgb(239, 243, 246) ;
-    padding: 10px 0px ;
+    background-color: rgb(110 170 79 / 85%);
+    padding: 16px 0px;
     border-radius: 5px;
     position: relative;
-} 
+    font-size: 'Roboto', sans-serif;
+    
+}
 #img-gen{
     border: 0px;
     outline: 0;
     background:transparent;
     width: 80%;
+    font-size: 24px;
+    color: #fff;
 } 
-form .search-but{
+form .search-but {
     position: absolute;
     right: 0px;
     top: 0px;
-    background-color: rgb(45, 110, 2);
+    background-color: rgb(16 144 3 / 51%);
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     border: 0px;
     color: #ffffff;
     height: 100%;
-    padding: 0px 20px;
+    padding: 0px 35px;
     cursor: pointer;
-} 
+    font-size: 23px;
+}
 
 .next-but button {
     text-align: center;
