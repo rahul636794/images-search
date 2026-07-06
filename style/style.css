@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: rgb(85 197 73 / 63%);
+    background-color: rgb(160 196 199 / 63%);
 }
 .next-but{
     text-align: center;
@@ -14,7 +14,7 @@ body {
     margin: auto;
     text-align: center;
     margin-top: 150px;
-    background-color: rgb(110 170 79 / 85%);
+   background-color: rgb(175 189 190 / 68%);
     padding: 16px 0px;
     border-radius: 5px;
     position: relative;
